@@ -1,1 +1,1 @@
-Blog for thing Penetration Testing. 
+Blog for things Penetration Testing. 
