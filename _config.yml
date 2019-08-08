@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thegetch.github.io/"
 twitter_username: _TheGetch_
 github_username:  TheGetch
-title_image: "https://github.com/TheGetch/thegetch.github.io/tree/master/images/ster.jpg"
+title_image: "https://raw.githubusercontent.com/TheGetch/thegetch.github.io/master/images/ster.jpg"
 
 # Build settings
 markdown: kramdown
