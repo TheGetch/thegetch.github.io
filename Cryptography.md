@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Cryptography"
 date:   2019-08-09 11:03:01 -0400
 categories: Cryptography
