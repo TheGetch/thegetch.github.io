@@ -4,9 +4,9 @@ title:  "Cryptography"
 date:   2019-08-09 11:03:01 -0400
 categories: Cryptography
 ---
-### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
 
-## Cryptographic Attacks: A Guide for the Perplexed
+### Cryptographic Attacks: A Guide for the Perplexed
 
 When some people hear “Cryptography”, they think of their Wifi password, of the little green lock icon next to the address of their favorite website, and of the difficulty they’d face trying to snoop in other people’s email. Others may recall the litany of vulnerabilities of recent years that boasted a pithy acronym (DROWN, FREAK, POODLE…), a stylish logo and an urgent warning to update their web browser.
 

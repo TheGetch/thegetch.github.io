@@ -5,7 +5,7 @@ description: "Just another blog about Penetration Testing."
 baseurl: ""
 url: "https://thegetch.github.io/"
 title_description: ""
-title_image: "https://raw.githubusercontent.com/TheGetch/thegetch.github.io/master/images/ster.jpg"
+title_image: "https://thegetch.github.io/images/ster.jpg"
 github_repository: https://github.com/TheGetch
 addthis_id: 
 post_limit: 5

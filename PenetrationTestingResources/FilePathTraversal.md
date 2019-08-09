@@ -1,17 +1,25 @@
+---
+layout: post
+title:  "File Path Traversal"
+date:   2019-08-09 11:03:01 -0400
+categories: File Path Traversal
+---
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+
 ### Web Security Academy: File Path Traversal
 
 In this section, we'll explain what file path traversal is, describe how to carry out path traversal attacks and circumvent common obstacles, and spell out how to prevent path traversal vulnerabilities. 
 
-https://portswigger.net/web-security/file-path-traversal
+<https://portswigger.net/web-security/file-path-traversal>
 
 ### Path Traversal Cheat Sheet: Windows
 
 Cheat sheet for path traversals against a Windows target.
 
-https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/
+<https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/>
 
 ### Path Traversal Cheat Sheet: Linux
 
 Cheat sheet for path traversals against a Linux target.
 
-https://www.gracefulsecurity.com/path-traversal-cheat-sheet-linux/
+<https://www.gracefulsecurity.com/path-traversal-cheat-sheet-linux/>
