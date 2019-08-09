@@ -4,7 +4,7 @@ title:  "Cryptography"
 date:   2019-08-09 11:03:01 -0400
 categories: Cryptography
 ---
-### [Home](https://github.com/TheGetch/Penetration-Testing-Resources/wiki)
+### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
 
 ## Cryptographic Attacks: A Guide for the Perplexed
 
