@@ -44,3 +44,5 @@ I'll start Part 1 right off the bat. The PWK Syllabus is freely available here, 
 - Chapter 18: Penetration Test Breakdown
 
 Throughout the next couple of posts, examples will be included for resources I used to prepare. As I said previously, anything I outline will show my methodology for studying; my examples are not the only resources out there. If you follow the course syllabus linked above, which actually gives a wealth of information about the course, including chapter titles and all the tools that are taught in the course, you can deduce what will be learned, how you can try to prepare for the course, and thus begin to develop your own methodology. Everyone’s going to prepare and learn differently, but that’s really the key point of OSCP: to learn how to learn and prove you can teach yourself within a time limit.
+
+Continue to [Part 2: Tool Enumeration](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2/).
