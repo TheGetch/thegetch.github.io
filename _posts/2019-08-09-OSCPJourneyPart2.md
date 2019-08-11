@@ -7,8 +7,8 @@ categories: OSCP Offsec
 
 This post is part two of a series, as seen below:
 
-* Part 1: PWK Syllabus
-* **Part 2: Tool Enumeration**
+* [Part 1: PWK Syllabus](https://thegetch.github.io/oscp/offsec/2019/08/09/OSCPJourney/)
+* **[Part 2: Tool Enumeration](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2/)**
 * Part 3: Penetration Testing Topics
     * Practice VMs
 * Part 4: Course, Lab, and Exam Overview
@@ -52,6 +52,6 @@ My experience with learning and using Metasploit was that it helped me learn to 
 
 But this was simply my experience with using the tool. Be careful, as good as it is to learn the tool, given the exam restrictions, you will not pass the exam if your reliance on Metasploit is strong. This translates into real life pen testing as well though. You simply can’t improve as a pen testers if Metasploit modules (or other automated tools) are all that are used during a test. Because of these reasons, I saw a number of people within the course forums that refused to even touch Metasploit given the exam restrictions and the fear of reliance.
 
-Now that I convinced everyone to not use Metasploit, OffSec has a fantastic and free Metasploit course (listed above) that I referenced throughout my time in the course.
+Now that I convinced everyone to not use Metasploit, OffSec has a fantastic and free [Metasploit course](https://www.offensive-security.com/metasploit-unleashed/>) (also listed above) that I referenced throughout my time in the course.
 
 Continue to [Part 3: Penetration Testing Topics (TBD)](#).

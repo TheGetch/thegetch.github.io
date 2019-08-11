@@ -11,8 +11,8 @@ I passed my OSCP certification exam attempt back in February 2017. I accumulated
 
 Below are the topics I’ll be touching upon. I do want to emphasize that everything included in this post is based off of my experiences going through the course and exam. Don’t think you have to use all the examples or references I give in order to be prepared or pass. What worked for me might not work for you. Each person will have an experience unique to them.
 
-* Part 1: PWK Syllabus
-* Part 2: Tool Enumeration
+* [Part 1: PWK Syllabus](https://thegetch.github.io/oscp/offsec/2019/08/09/OSCPJourney/)
+* [Part 2: Tool Enumeration](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2/)
 * Part 3: Penetration Testing Topics
     * Practice VMs
 * Part 4: Course, Lab, and Exam Overview
