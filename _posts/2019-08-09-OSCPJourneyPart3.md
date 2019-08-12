@@ -81,7 +81,7 @@ Part of the high level checklist I created to guide me through privilege escalat
 3. Looking for misconfigured file permissions (those checker scripts are great for this). Is there something readable/writeable to me that shouldn't be? For example: should I be able to write to a file owned by user/group root? Probably not. What about scheduled task/cron jobs? Can I use those somehow?
 4. Lastly, I would just look around for any files that maybe have a password in them. Example: SQL/Apache config files. Did someone leave a password lying around that I could use?
 
-There's a ton of information here. So lastly, I'll leave you will the best way to learn everything that was just outlined: practice.
+I've included a ton of information in this post, so lastly, I'll leave you will the best way to learn everything that was just outlined: practice.
 
 <a name="practiceVMs"></a>
 **Practice VMs**
