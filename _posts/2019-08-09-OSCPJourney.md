@@ -13,13 +13,17 @@ Below are the topics I’ll be touching upon. I do want to emphasize that everyt
 
 * [Part 1: PWK Syllabus](https://thegetch.github.io/oscp/offsec/2019/08/09/OSCPJourney/)
 * [Part 2: Tool Enumeration](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2/)
-* Part 3: Penetration Testing Topics
-    * Practice VMs
+  * [Linux and bash](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2#linux_bash)
+  * [Netcat/Ncat and Nmap](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2#nc_nmap)
+  * [Metasploit Framework](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2#metasploit)
+* [Part 3: Penetration Testing Topics](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3/)
+  * [Shell Exploitation](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#Shell_Exploitation)
+  * [Buffer Overflow](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#Buffer_Overflow)
+  * [Windows Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#winPrivX)
+  * [Linux Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#linPrivX)
+  * [Practice VMs](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#practiceVMs)
 * Part 4: Course, Lab, and Exam Overview
-    * Extra Points
-    * Exam Tips
 * Part 5: OSCP Takeaway
-
 
 The purpose of this post is simply to provide insight into the OSCP, i.e. what’s expected, things that could be good to know prior, how the course is laid out, etc., as well as to hopefully provide some resources that may be of assistance in being a stepping stone for people considering the course or are already about to begin their own OSCP journey. Mainly, my goal is to try and show that the OSCP is nothing to be afraid of, despite its infamy for being difficult.
 
