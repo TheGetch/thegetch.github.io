@@ -15,14 +15,14 @@ twitter_username: _TheGetch_
 github_username:  TheGetch
 instagram_username: 
 reddit_username: 
-linkedin_link: 
+linkedin_link: https://www.linkedin.com/in/ericgetchell/
 google_plus_link: 
 stackoverflow_link:
 xing_link:
 facebook_link:
 
 # Footer
-footer_left: ""
+footer_left: "&copy; 2019 TheGetch with Jekyll."
 footer_right: ""
 
 # Build settings
