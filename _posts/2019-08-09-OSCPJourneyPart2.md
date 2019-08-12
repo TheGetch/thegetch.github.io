@@ -12,7 +12,7 @@ This post is part two of a series, as seen below:
   * [Linux and bash](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2#linux_bash)
   * [Netcat/Ncat and Nmap](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2#nc_nmap)
   * [Metasploit Framework](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2#metasploit)
-* [Part 3: Penetration Testing Topics](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3/)
+* [Part 3: Penetration Testing Topics](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3/)
 * Part 4: Course, Lab, and Exam Overview
 * Part 5: OSCP Takeaway
 
@@ -72,4 +72,4 @@ Now that I convinced everyone to not use Metasploit, OffSec has a fantastic and 
 
 There are tons of other tools that can be used in addition to the tools I listed (and I encourage you to do so!). But if you're coming at penetration testing in general from a beginners standpoint, then knowledge of the tools above are a must.
 
-Continue to [Part 3: Penetration Testing Topics](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3/).
+Continue to [Part 3: Penetration Testing Topics](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3/).

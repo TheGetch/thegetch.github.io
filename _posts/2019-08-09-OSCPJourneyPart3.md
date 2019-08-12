@@ -9,12 +9,12 @@ This post is part three of a series, as seen below:
 
 * [Part 1: PWK Syllabus](https://thegetch.github.io/oscp/offsec/2019/08/09/OSCPJourney/)
 * [Part 2: Tool Enumeration](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2/)
-* **[Part 3: Penetration Testing Topics](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3/)**
-    * [Shell Exploitation](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#Shell_Exploitation)
-    * [Buffer Overflow](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#Buffer_Overflow)
-    * [Windows Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#winPrivX)
-    * [Linux Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#linPrivX)
-    * [Practice VMs](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart3#practiceVMs)
+* **[Part 3: Penetration Testing Topics](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3/)**
+    * [Shell Exploitation](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#Shell_Exploitation)
+    * [Buffer Overflow](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#Buffer_Overflow)
+    * [Windows Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#winPrivX)
+    * [Linux Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#linPrivX)
+    * [Practice VMs](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#practiceVMs)
 * Part 4: Course, Lab, and Exam Overview
 * Part 5: OSCP Takeaway
 
