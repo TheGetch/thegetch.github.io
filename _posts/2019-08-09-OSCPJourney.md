@@ -22,8 +22,13 @@ Below are the topics I’ll be touching upon. I do want to emphasize that everyt
   * [Windows Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#winPrivX)
   * [Linux Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#linPrivX)
   * [Practice VMs](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#practiceVMs)
-* Part 4: Course, Lab, and Exam Overview
-* Part 5: OSCP Takeaway
+* [Part 4: Course, Lab, and Exam Overview](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart4/)
+    * [The Course: Penetration Testing with Kali Linux](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart4#theCourse)
+    * [The Lab](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart4#theLab)
+    * [The Exam](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart4#theExam)
+    * [Tips](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart4#tips)
+* [Part 5: OSCP Takeaway](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart5/)
+    * [My OSCP Takeaway](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart5#myTakeAway)
 
 The purpose of this post is simply to provide insight into the OSCP, i.e. what’s expected, things that could be good to know prior, how the course is laid out, etc., as well as to hopefully provide some resources that may be of assistance in being a stepping stone for people considering the course or are already about to begin their own OSCP journey. Mainly, my goal is to try and show that the OSCP is nothing to be afraid of, despite its infamy for being difficult.
 

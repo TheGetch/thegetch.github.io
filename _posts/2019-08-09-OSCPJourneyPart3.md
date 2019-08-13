@@ -15,8 +15,8 @@ This post is part three of a series, as seen below:
     * [Windows Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#winPrivX)
     * [Linux Privilege Escalation](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#linPrivX)
     * [Practice VMs](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3#practiceVMs)
-* Part 4: Course, Lab, and Exam Overview
-* Part 5: OSCP Takeaway
+* [Part 4: Course, Lab, and Exam Overview](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart4/)
+* [Part 5: OSCP Takeaway](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart5/)
 
 This post focuses on exploitation topics that helped me greatly with the course and lab. See references below:
 

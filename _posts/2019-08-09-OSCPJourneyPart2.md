@@ -13,8 +13,8 @@ This post is part two of a series, as seen below:
   * [Netcat/Ncat and Nmap](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2#nc_nmap)
   * [Metasploit Framework](https://thegetch.github.io/oscp/offsec/2019/08/10/OSCPJourneyPart2#metasploit)
 * [Part 3: Penetration Testing Topics](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart3/)
-* Part 4: Course, Lab, and Exam Overview
-* Part 5: OSCP Takeaway
+* [Part 4: Course, Lab, and Exam Overview](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart4/)
+* [Part 5: OSCP Takeaway](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart5/)
 
 This entire next part can really be summed up with two words: research and practice! Or as OffSec would say, try harder.
 

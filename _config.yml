@@ -22,8 +22,8 @@ xing_link:
 facebook_link:
 
 # Footer
-footer_left: "&copy; 2019 TheGetch with Jekyll."
-footer_right: ""
+footer_left: ""
+footer_right: "&copy; 2019 TheGetch with Jekyll."
 
 # Build settings
 markdown: kramdown
