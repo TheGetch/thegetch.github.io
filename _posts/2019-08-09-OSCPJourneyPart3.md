@@ -116,4 +116,4 @@ Below are VMs that can be found on VulnHub. These machines are similar to those 
 
 If you get to the point where comfortable rooting these, you’re more than prepared for the lab.
 
-Continue to [Part 4: Course, Lab, and Exam Overview (TBD)](#).
+Continue to [Part 4: Course, Lab, and Exam Overview](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart4/).

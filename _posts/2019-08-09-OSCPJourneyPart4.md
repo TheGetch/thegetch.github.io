@@ -89,4 +89,4 @@ Overview:
   * And of course, try harder :-)
 
 
-Continue to [Part 5: OSCP Takeaway (TBD)](#).
+Continue to [Part 5: OSCP Takeaway](https://thegetch.github.io/oscp/offsec/2019/08/12/OSCPJourneyPart5/).
