@@ -8,8 +8,6 @@ categories: Printer Printers
 
 [Click here](https://thegetch.github.io/PenetrationTestingResources/PrinterHackingTools) for Printer Hacking tools.
 
-### Hacking Printers Wiki
+### [Hacking Printers Wiki](<http://hacking-printers.net/wiki/index.php/Main_Page>)
 
-This is the Hacking Printers Wiki, an open approach to share knowledge on printer (in)security. 
- 
-<http://hacking-printers.net/wiki/index.php/Main_Page>
+This is the Hacking Printers Wiki, an open approach to share knowledge on printer (in)security.
