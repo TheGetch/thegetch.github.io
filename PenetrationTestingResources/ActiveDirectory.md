@@ -24,3 +24,7 @@ I’ve had several customers come to me before a pentest and say they think they
 ### [Penetration Testing Active Directory, Part II](https://hausec.com/2019/03/12/penetration-testing-active-directory-part-ii/)
 
 In the previous article, I obtained credentials to the domain three different ways. For most of this part of the series, I will use the rsmith user credentials, as they are low-level, forcing us to do privilege escalation.
+
+### [Bloodhound 101](https://blog.zsec.uk/bloodhound-101/)
+
+Bloodhound is a tool for enumeration of an active directory environment. It maps out relationships between active directory objects and is useful for Pentesting and Red Teaming....
