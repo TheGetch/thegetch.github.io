@@ -9,3 +9,11 @@ categories: Cross-Site Request Forgery CSRF
 ### [10 Methods to Bypass Cross Site Request Forgery (CSRF)](https://haiderm.com/10-methods-to-bypass-cross-site-request-forgery-csrf/)
 
 There are several methods being used to protect web application attacks, the most common method is using Anti CSRF Tokens. In this post I will be presenting the techniques one should use to bypass when confronted with CSRF protection mechanism.
+
+### [Defense: SameSite Flag](https://www.owasp.org/index.php/SameSite)
+
+SameSite prevents the browser from sending this cookie along with cross-site requests. 
+
+### [Defense: SameSite cookies explained](https://web.dev/samesite-cookies-explained/)
+
+Secure your site by learning how to explicitly mark your cross-site cookies. 
