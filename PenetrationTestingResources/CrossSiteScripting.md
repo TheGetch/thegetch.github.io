@@ -10,6 +10,10 @@ categories: Cross-Site Scripting XSS
 
 In this section, we'll explain what cross-site scripting is, describe the different varieties of cross-site scripting vulnerabilities, and spell out how to find and prevent cross-site scripting.
 
+### [PortSwigger XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+
+This cross-site scripting (XSS) cheat sheet contains many vectors that can help you bypass WAFs and filters. You can select vectors by the event, tag or browser and a proof of concept is included for every vector. 
+
 ### [XSS without HTML: Client-Side Template Injection with AngularJS](https://portswigger.net/blog/xss-without-html-client-side-template-injection-with-angularjs)
 
 Naive use of the extremely popular JavaScript framework AngularJS is exposing numerous websites to Angular Template Injection. This relatively low profile sibling of server-side template injection can be combined with an Angular sandbox escape to launch cross-site scripting (XSS) attacks on otherwise secure sites. Until now, there has been no publicly known sandbox escape affecting Angular 1.3.1+ and 1.4.0+. This post will summarize the core concepts of Angular Template Injection, then show the development of a fresh sandbox escape affecting all modern Angular versions.
@@ -25,3 +29,14 @@ Last year in XSS Without HTML: Client-Side Template Injection with AngularJS we 
 ### [XSS Attacks](http://htmlpurifier.org/live/smoketests/xssAttacks.php)
 
 Listing of XSS attacks.
+
+### [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
+
+This is the new home of the H5SC or HTML5 Security Cheatsheet. Here you will find three things:
+	• A collection of HTML5 related XSS attack vectors
+	• A set of useful files for XSS testing
+	• A set of formerly hidden features useful for XSS testing
+
+### [XSS Vulnerabilities](https://sites.google.com/site/xssvulnerabilities/xss)
+
+Cross site scripting (XSS) vulnerabilities constitute some of the most pervasive and problematic security issues that modern web applications face. They have caused serious problems with the most widely used online companies and services, including Twitter, Facebook, and Google, [1] and researchers estimate that a large percentage of websites currently suffer from xss vulnerabilities of one form or another. 
