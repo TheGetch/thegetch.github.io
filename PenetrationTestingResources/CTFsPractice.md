@@ -41,3 +41,11 @@ HackEDU has replicated vulnerabilities found through HackerOne’s bug bounty pr
 ### [hackxor](https://hackxor.net/)
 
 Hackxor is a realistic web application hacking game, designed to help players of all abilities develop their skills.
+
+### [Pwn()](https://xss.pwnfunction.com/)
+
+XSS challenges.
+
+### [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
+
+The workshop is based on the attack tree below, which covers all known (at the time) attack vectors of local user privilege escalation on both Linux and Windows operating systems. 
