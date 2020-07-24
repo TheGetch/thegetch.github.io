@@ -45,3 +45,11 @@ Linux systems are everywhere. With the increased adoption of IoT devices, the nu
 ### [Hot Potato – Windows Privilege Escalation](https://foxglovesecurity.com/2016/01/16/hot-potato/)
 
 Hot Potato (aka: Potato) takes advantage of known issues in Windows to gain local privilege escalation in default configurations, namely NTLM relay (specifically HTTP->SMB relay) and NBNS spoofing.
+
+### [Windows Privilege Escalation Cheatsheet for OSCP](https://www.hackingdream.net/2020/03/windows-privilege-escalation-cheatsheet-for-oscp.html)
+
+Cheatsheet for Windows privX, geared towards use on the OSCP
+
+### [GTFOBins](https://gtfobins.github.io/)
+
+GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.

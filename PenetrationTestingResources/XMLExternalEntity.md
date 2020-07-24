@@ -6,7 +6,7 @@ categories: XML External Entity
 ---
 ##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
 
-### Web Security Academy: XXE Injection](https://portswigger.net/web-security/xxe)
+### [Web Security Academy: XXE Injection](https://portswigger.net/web-security/xxe)
 
 In this section, we'll explain what XML external entity injection is, describe some common examples, explain how to find and exploit various kinds of XXE injection, and summarize how to prevent XXE injection attacks.
 

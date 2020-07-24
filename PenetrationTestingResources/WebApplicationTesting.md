@@ -6,6 +6,10 @@ categories: Web Application Testing
 ---
 ##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
 
+### [Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/)
+
+Numerous blogs posts and tutorials dealing with all things web application penetration testing.
+
 ### [Burp 2.0 Launching Scans](https://portswigger.net/blog/launching-scans)
 
 PortSwigger blog about setting up and launching basic scans in Burp 2.0's new scan engine.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OSINT"
-date:   2019-08-09 11:03:01 -0400
+date:   2020-07-24 03:00:01 -0400
 categories: OSINT
 ---
 ##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
@@ -19,3 +19,7 @@ If you read the title, which I am sure you have, you’ll know that we’re goin
 ### [SHODAN for Penetration Testers](https://www.defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
 
 Defcon talk on SHODAN.
+
+### [Shodan Pentesting Guide](https://community.turgensec.com/shodan-pentesting-guide/)
+
+Shodan is a tool for searching devices connected to the internet. Unlike search engines which help you find websites, Shodan helps you find information about desktops, servers, IoT devices, and more. This information includes metadata such as the software running on each device. 
