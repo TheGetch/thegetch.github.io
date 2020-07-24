@@ -8,6 +8,10 @@ categories: Privilege Escalation Tools PrivX
 
 [Click here](https://thegetch.github.io/PenetrationTestingResources/PrivilegeEscalation) for Privilege Escalation guides.
 
+### [Windows Exploit Dowser](https://github.com/akabe1/windows_exploit_dowser)
+
+Windows Exploit Dowser is a python script which could be useful in penetration testing or security gaming (CTF) activities to identify the available public exploits (for Privilege Escalation and Remote Code Execution vulnerabilities) afflicting the target Windows OS specified by user (all Windows version are supported).
+
 ### [Windows Exploit Suggester - Next Generation](https://github.com/bitsadmin/wesng)
 
 WES-NG is a tool based on the output of Windows' systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, including any exploits for these vulnerabilities. Every Windows OS between Windows XP and Windows 10, including their Windows Server counterparts, is supported.

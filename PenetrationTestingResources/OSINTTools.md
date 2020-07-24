@@ -31,3 +31,7 @@ SymbolHound is a search engine that doesn't ignore special characters. This mean
 ### [crt.sh](https://crt.sh/)
 
 Enter an Identity (Domain Name, Organization Name, etc), a Certificate Fingerprint (SHA-1 or SHA-256) or a crt.sh ID
+
+### [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+
+AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP). It may also be useful in real-world engagements.
