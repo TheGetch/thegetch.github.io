@@ -4,7 +4,7 @@ title:  "Proxy Guides"
 date:   2019-08-09 11:03:01 -0400
 categories: Proxy
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [Changing proxychains' "hardcoded" DNS server](http://carnal0wnage.attackresearch.com/2013/09/changing-proxychains-hardcoded-dns.html)
 

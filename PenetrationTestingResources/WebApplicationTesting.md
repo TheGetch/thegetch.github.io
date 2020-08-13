@@ -4,7 +4,7 @@ title:  "Web Application Testing"
 date:   2019-08-09 11:03:01 -0400
 categories: Web Application Testing
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/)
 

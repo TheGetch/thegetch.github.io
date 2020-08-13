@@ -4,7 +4,7 @@ title:  "NFS"
 date:   2020-07-24 02:58:01 -0400
 categories: Kerberos cheetsheet
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [Linux Hacking Case Studies Part 2: NFS](https://blog.netspi.com/linux-hacking-case-studies-part-2-nfs/)
 

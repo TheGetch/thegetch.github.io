@@ -4,7 +4,7 @@ title:  "Cryptography"
 date:   2019-08-09 11:03:01 -0400
 categories: Cryptography
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [Cryptographic Attacks: A Guide for the Perplexed](https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/)
 

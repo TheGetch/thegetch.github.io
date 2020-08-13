@@ -4,7 +4,7 @@ title:  "CTP Practice"
 date:   2019-08-09 11:03:01 -0400
 categories: CTP Practice
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [CTF Time](https://ctftime.org/)
 

@@ -4,7 +4,7 @@ title:  "Physical Penetration Testing"
 date:   2019-08-09 11:03:01 -0400
 categories: Physical
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [Introduction to physical penetration tests](https://diablohorn.com/2019/07/21/introduction-to-physical-penetration-tests/)
 

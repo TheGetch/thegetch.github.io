@@ -4,7 +4,7 @@ title:  "Active Directory: Tools"
 date:   2019-08-09 11:03:01 -0400
 categories: Active Directory Tools
 ---
-##### [Return to Main Page](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return to Main Page](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 [Click here](https://thegetch.github.io/PenetrationTestingResources/ActiveDirectory) for Active Directory attack guides.
 

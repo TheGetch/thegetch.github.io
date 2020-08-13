@@ -4,7 +4,7 @@ title:  "OSINT: Tools"
 date:   2019-08-09 11:03:01 -0400
 categories: OSINT Tools
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 [Click here](https://thegetch.github.io/PenetrationTestingResources/OSINT) for OSINT guides.
 

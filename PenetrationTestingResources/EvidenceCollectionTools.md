@@ -4,7 +4,7 @@ title:  "Evidence Collection: Tools"
 date:   2019-08-09 11:03:01 -0400
 categories: Evidence Collection Tools
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [gowitness - a golang, web screenshot utility using Chrome Headless](https://github.com/sensepost/gowitness)
 

@@ -4,7 +4,8 @@ title:  "HTTP Information"
 date:   2019-08-09 11:03:01 -0400
 categories: HTTP Headers
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
 

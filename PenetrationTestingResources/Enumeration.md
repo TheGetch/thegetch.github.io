@@ -4,7 +4,7 @@ title:  "Enumeration"
 date:   2019-08-09 11:03:01 -0400
 categories: Enumeration
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [0day Security Enumeration Guide](http://www.0daysecurity.com/penetration-testing/enumeration.html)
 

@@ -4,7 +4,7 @@ title:  "John The Ripper"
 date:   2020-07-24 03:30:01 -0400
 categories: John Ripper Tools
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [Cracking everything with John the Ripper](https://bytesoverbombs.io/cracking-everything-with-john-the-ripper-d434f0f6dc1c)
 

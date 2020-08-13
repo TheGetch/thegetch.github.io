@@ -4,7 +4,7 @@ title:  "Web Cache Poisoning"
 date:   2020-07-24 03:09:01 -0400
 categories: Web Cache Poisoning
 ---
-##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2019/08/09/Home/)
+##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ### [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
 
