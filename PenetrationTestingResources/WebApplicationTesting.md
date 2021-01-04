@@ -34,3 +34,7 @@ Hidden directories and files left accidentally on the web server might be a very
 ### [XMLHttpRequest Based CSRF Test 1.0](https://www.paladion.net/blogs/xmlhttprequest-based-csrf-test-1-0-part-1)
 
 Hackers are continuously looking to find vulnerabilities in systems and exploit them for nefarious gains. Over the years, there have been thousands of attacks targeting multiple weaknesses that coders and developers inadvertently wrote in their programs. One such example which we will analyze in detail in this post is a cross-site request forgery (CSRF) attack exploiting a weakness in a XMLHttpRequest (XHR) technology.
+
+### [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
+
+In this article, I will walk through the commonly evaluated headers, recommend security values for each, and give a sample header setting. At the end of the article, I will include sample setups for common applications and web servers.
