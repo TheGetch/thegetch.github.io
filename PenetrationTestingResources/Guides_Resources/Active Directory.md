@@ -10,8 +10,6 @@ categories: Active Directory
 
 [Click here](https://thegetch.github.io/PenetrationTestingResources/ActiveDirectoryTools) for Active Directory attack tools.
 
-Or in Joplin: [Active Directory](../../Penetration%20Testing%20Resources/Tools/Active%20Directory.md)
-
 ### [118 Attacking ADFS Endpoints with PowerShell](https://www.youtube.com/watch?v=oTyLdAUjw30)
 
 Active Directory Federation Services (ADFS) has become increasingly popular in the last few years. As a penetration tester, I'm seeing organizations opening themselves up to attacks on ADFS endpoints across the Internet. Manually completing attacks against these endpoints can be tedious. The current native Microsoft management tools are handy, but what if we weaponized them. During this talk, I will show you how to identify domains that support ADFS, confirm email addresses for users of the domain, and help you guess passwords for those users. We'll cover how you can set up your own hosted ADFS domain (on the cheap), and use it to attack other federated domains. On top of that, we'll show you how you can wrap all of the native functionality with PowerShell to automate your attacks. This talk should give penetration testers an overview on how they can start leveraging ADFS endpoints during a penetration test.
