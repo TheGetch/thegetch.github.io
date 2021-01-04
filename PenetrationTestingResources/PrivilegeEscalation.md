@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Privilege Escalation"
-date:   2019-08-09 11:03:01 -0400
+date:   2021-01-04 02:03:01 -0400
 categories: Privilege Escalation PrivX
 ---
 ##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
+
+---
 
 [Click here](https://thegetch.github.io/PenetrationTestingResources/PrivilegeEscalationTools) for Privilege Escalation tools.
 
@@ -53,3 +55,7 @@ Cheatsheet for Windows privX, geared towards use on the OSCP
 ### [GTFOBins](https://gtfobins.github.io/)
 
 GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
+
+### [Sudo 1.8.27 Security Bypass](https://www.exploit-db.com/exploits/47502)
+
+CVE : 2019-14287
