@@ -1,5 +1,3 @@
-Wordlists
-
 ---
 layout: post
 title:  "Wordlists"

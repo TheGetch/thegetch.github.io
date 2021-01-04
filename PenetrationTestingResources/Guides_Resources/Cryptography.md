@@ -1,5 +1,3 @@
-Cryptography
-
 ---
 layout: post
 title:  "Cryptography"

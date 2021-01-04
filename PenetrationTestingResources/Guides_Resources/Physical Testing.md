@@ -1,5 +1,3 @@
-Physical Testing
-
 ---
 layout: post
 title:  "Physical Penetration Testing"

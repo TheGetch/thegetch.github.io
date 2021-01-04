@@ -1,5 +1,3 @@
-Privilege Escalation
-
 ---
 layout: post
 title:  "Privilege Escalation: Tools"

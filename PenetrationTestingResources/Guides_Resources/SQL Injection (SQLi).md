@@ -1,5 +1,3 @@
-SQL Injection (SQLi)
-
 ---
 layout: post
 title:  "SQL Injections"

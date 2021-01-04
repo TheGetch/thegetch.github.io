@@ -1,5 +1,3 @@
-NFS
-
 ---
 layout: post
 title:  "NFS"

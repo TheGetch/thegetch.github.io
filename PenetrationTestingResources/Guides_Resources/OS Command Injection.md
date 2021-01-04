@@ -1,5 +1,3 @@
-OS Command Injection
-
 ---
 layout: post
 title:  "OS COmmand Injection"

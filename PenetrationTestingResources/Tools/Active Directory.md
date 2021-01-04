@@ -1,5 +1,3 @@
-Active Directory
-
 ---
 layout: post
 title:  "Active Directory: Tools"

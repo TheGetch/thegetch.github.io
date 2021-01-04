@@ -1,5 +1,3 @@
-DLL Hacking
-
 ---
 layout: post
 title:  "DLLHacking"

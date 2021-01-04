@@ -1,5 +1,3 @@
-Java
-
 ---
 layout: post
 title:  "Java: Tools"

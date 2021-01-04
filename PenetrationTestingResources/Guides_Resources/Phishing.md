@@ -1,5 +1,3 @@
-Phishing
-
 ---
 layout: post
 title:  "Phishing"

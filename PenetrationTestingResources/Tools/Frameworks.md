@@ -1,5 +1,3 @@
-Frameworks
-
 ---
 layout: post
 title:  "Frameworks"

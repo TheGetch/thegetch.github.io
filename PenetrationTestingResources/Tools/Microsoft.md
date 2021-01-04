@@ -1,5 +1,3 @@
-Microsoft
-
 ---
 layout: post
 title:  "Microsoft Attacks: Tools"

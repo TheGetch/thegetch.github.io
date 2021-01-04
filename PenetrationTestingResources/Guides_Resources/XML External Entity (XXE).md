@@ -1,5 +1,3 @@
-XML External Entity (XXE)
-
 ---
 layout: post
 title:  "XML External Entity"

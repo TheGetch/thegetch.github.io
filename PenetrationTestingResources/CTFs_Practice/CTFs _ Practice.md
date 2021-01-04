@@ -1,5 +1,3 @@
-CTFs / Practice
-
 ---
 layout: post
 title:  "CTP Practice"

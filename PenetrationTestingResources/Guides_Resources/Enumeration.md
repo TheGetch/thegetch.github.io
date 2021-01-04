@@ -1,5 +1,3 @@
-Enumeration
-
 ---
 layout: post
 title:  "Enumeration"

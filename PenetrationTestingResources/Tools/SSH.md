@@ -1,5 +1,3 @@
-SSH
-
 ---
 layout: post
 title:  "SSH: Tools"

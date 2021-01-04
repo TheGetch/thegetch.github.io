@@ -1,5 +1,3 @@
-PowerShell
-
 ---
 layout: post
 title:  "PowerShell"

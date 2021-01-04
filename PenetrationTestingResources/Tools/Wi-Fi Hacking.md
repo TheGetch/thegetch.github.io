@@ -1,5 +1,3 @@
-Wi-Fi Hacking
-
 ---
 layout: post
 title:  "Wi-Fi Hacking: Tools"

@@ -1,5 +1,3 @@
-Cross-Site Request Forgery (CSRF)
-
 ---
 layout: post
 title:  "Cross-Site Request Forgery"

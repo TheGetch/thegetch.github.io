@@ -1,5 +1,3 @@
-Kerberos
-
 ---
 layout: post
 title:  "Kerberos"

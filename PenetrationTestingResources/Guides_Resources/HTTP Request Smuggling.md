@@ -1,5 +1,3 @@
-HTTP Request Smuggling
-
 ---
 layout: post
 title:  "HTTP Request Smuggling"

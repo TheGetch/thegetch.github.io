@@ -1,5 +1,3 @@
-OSINT
-
 ---
 layout: post
 title:  "OSINT"

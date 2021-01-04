@@ -1,5 +1,3 @@
-John the Ripper
-
 ---
 layout: post
 title:  "John The Ripper"

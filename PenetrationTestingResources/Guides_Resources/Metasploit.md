@@ -1,5 +1,3 @@
-Metasploit
-
 ---
 layout: post
 title:  "Metasploit"

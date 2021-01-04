@@ -1,5 +1,3 @@
-"New to Information Security" Sites
-
 ---
 layout: post
 title:  "New to Information Security"

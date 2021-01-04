@@ -1,5 +1,3 @@
-Printer Hacking
-
 ---
 layout: post
 title:  "Printer Hacking: Tools"

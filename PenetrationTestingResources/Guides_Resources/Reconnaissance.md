@@ -1,5 +1,3 @@
-Reconnaissance
-
 ---
 layout: post
 title:  "Reconnaissance"

@@ -1,5 +1,3 @@
-Proxy Guides
-
 ---
 layout: post
 title:  "Proxy Guides"

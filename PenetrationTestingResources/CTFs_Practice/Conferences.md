@@ -1,5 +1,3 @@
-Conferences
-
 ---
 layout: post
 title:  "Conferences"

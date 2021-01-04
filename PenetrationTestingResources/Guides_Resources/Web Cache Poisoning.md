@@ -1,5 +1,3 @@
-Web Cache Poisoning
-
 ---
 layout: post
 title:  "Web Cache Poisoning"

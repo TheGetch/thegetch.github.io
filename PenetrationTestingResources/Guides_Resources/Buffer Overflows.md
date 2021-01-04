@@ -1,5 +1,3 @@
-Buffer Overflows
-
 ---
 layout: post
 title:  "Buffer Overflows"

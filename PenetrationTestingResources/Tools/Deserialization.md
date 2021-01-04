@@ -1,5 +1,3 @@
-Deserialization
-
 ---
 layout: post
 title:  "Deserialization: Tools"

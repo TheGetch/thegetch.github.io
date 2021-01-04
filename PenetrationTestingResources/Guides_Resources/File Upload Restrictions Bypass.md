@@ -1,5 +1,3 @@
-File Upload Restrictions Bypass
-
 ---
 layout: post
 title:  "File Upload Restrictions Bypass"

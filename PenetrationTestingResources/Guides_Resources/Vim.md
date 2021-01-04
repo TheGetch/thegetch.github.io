@@ -1,5 +1,3 @@
-Vim
-
 ---
 layout: post
 title:  "Vim"

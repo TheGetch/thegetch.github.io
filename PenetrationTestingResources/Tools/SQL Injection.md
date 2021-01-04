@@ -1,5 +1,3 @@
-SQL Injection
-
 ---
 layout: post
 title:  "SQL Injection Tools"

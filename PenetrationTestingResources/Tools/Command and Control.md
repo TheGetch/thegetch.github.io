@@ -1,5 +1,3 @@
-Command and Control
-
 ---
 layout: post
 title:  "Command and Control"

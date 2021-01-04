@@ -1,5 +1,3 @@
-Code Review
-
 ---
 layout: post
 title:  "Code Review: Tools"

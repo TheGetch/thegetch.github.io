@@ -1,5 +1,3 @@
-Evidence Collection
-
 ---
 layout: post
 title:  "Evidence Collection: Tools"

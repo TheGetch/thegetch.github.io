@@ -1,5 +1,3 @@
-Crawlers
-
 ---
 layout: post
 title:  "Crawlers"

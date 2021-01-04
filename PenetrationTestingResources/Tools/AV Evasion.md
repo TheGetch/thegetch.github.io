@@ -1,5 +1,3 @@
-AV Evasion
-
 ---
 layout: post
 title:  "Antivirus Evastion"

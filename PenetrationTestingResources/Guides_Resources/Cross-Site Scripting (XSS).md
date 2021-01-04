@@ -1,5 +1,3 @@
-Cross-Site Scripting (XSS)
-
 ---
 layout: post
 title:  "Cross-Site Scripting"

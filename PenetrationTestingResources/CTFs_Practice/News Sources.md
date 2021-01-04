@@ -1,4 +1,3 @@
-News Sources
 
 - https://www.reddit.com/r/netsec
    - Heavily moderated, almost always fantastic content. They provide useful labels like "Warning: named over-hyped bug"

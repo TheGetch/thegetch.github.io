@@ -1,5 +1,3 @@
-File Path Traversal
-
 ---
 layout: post
 title:  "File Path Traversal"

@@ -1,5 +1,3 @@
-JSON Web Tokens (JWT)
-
 ---
 layout: post
 title:  "JSON Web Tokens"

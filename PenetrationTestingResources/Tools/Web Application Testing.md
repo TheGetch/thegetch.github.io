@@ -1,5 +1,3 @@
-Web Application Testing
-
 ---
 layout: post
 title:  "Web Application Testing Tools"
