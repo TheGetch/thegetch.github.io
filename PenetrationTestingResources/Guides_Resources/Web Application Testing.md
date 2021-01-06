@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Web Application Testing"
-date:   2019-08-09 11:03:01 -0400
+date:   2021-01-06 01:07:01 -0400
 categories: Web Application Testing
 ---
 ##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
@@ -40,6 +40,13 @@ Hackers are continuously looking to find vulnerabilities in systems and exploit 
 ### [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
 
 In this article, I will walk through the commonly evaluated headers, recommend security values for each, and give a sample header setting. At the end of the article, I will include sample setups for common applications and web servers.
+
+
+### [SSRF MindMap](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/SSRF.png)
+
+This repo contains full collection of HackerScrolls tips.
+
+
 
 
 
