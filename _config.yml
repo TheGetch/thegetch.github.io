@@ -23,7 +23,7 @@ facebook_link:
 
 # Footer
 footer_left: ""
-footer_right: "&copy; 2019 TheGetch with Jekyll."
+footer_right: "&copy; 2021 TheGetch with Jekyll."
 
 # Build settings
 markdown: kramdown
