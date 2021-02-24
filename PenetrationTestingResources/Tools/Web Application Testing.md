@@ -4,6 +4,7 @@ title:  "Web Application Testing Tools"
 date:   2019-08-09 11:03:01 -0400
 categories: Web Application Testing Tools
 ---
+
 ##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ---
@@ -39,5 +40,10 @@ A fast web fuzzer written in Go.
 
 An burpsuite extension to bypass 403 restricted directory. By using PassiveScan (default enabled), each 403 request will be automatically scanned by this extension, so just add to burpsuite and enjoy.
 
+### [Hack-Tools](https://github.com/TheGetch/Hack-Tools)
 
+The all-in-one Red Team browser extension for Web Pentesters
 
+HackTools, is a web extension facilitating your web application penetration tests, it includes cheat sheets as well as all the tools used during a test such as XSS payloads, Reverse shells and much more.
+
+With the extension you no longer need to search for payloads in different websites or in your local storage space, most of the tools are accessible in one click. HackTools is accessible either in pop up mode or in a whole tab in the Devtools part of the browser with F12.

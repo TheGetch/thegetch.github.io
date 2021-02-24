@@ -4,13 +4,14 @@ title:  "Active Directory: Tools"
 date:   2019-08-09 11:03:01 -0400
 categories: Active Directory Tools
 ---
+
 ##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ---
 
 [Click here](https://thegetch.github.io/PenetrationTestingResources/ActiveDirectory) for Active Directory attack guides.
 
-Or in Joplin: [Active Directory](../../Penetration%20Testing%20Resources/Guides+Resources/Active%20Directory.md)
+Or in Joplin: [Active Directory](../../Penetration%20Testing%20Resources/Guides_Resources/Active%20Directory.md)
 
 ### [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 

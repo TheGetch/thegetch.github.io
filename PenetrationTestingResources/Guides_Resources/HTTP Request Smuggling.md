@@ -4,6 +4,7 @@ title:  "HTTP Request Smuggling"
 date:   2020-07-23 03:51:01 -0400
 categories: HTTP Smuggling Desync
 ---
+
 ##### [Return Home](https://thegetch.github.io/penetration/testing/resources/2020/07/24/Home/)
 
 ---
