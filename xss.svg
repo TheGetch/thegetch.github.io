@@ -7,3 +7,4 @@
       alert("SVG XSS");
    </script>
 </svg>
+<!-- from: http://ghostlulz.com/xss-svg/ -->
