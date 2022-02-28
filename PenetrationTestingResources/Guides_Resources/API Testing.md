@@ -27,12 +27,16 @@ Welcome back to the Penetration Testing REST API blog series for Part 3: Reporti
 
 ### [API Penetration Testing : Things To Be Noted](https://medium.com/@Johne_Jacob/api-penetration-testing-things-to-be-noted-14ec0a170222)
 
+High level API testing methodology.
+
 ### [API Pentesting Tricks](https://book.hacktricks.xyz/pentesting/pentesting-web/api-pentesting)
+
+HackTricks for Web API Pentesting.
 
 ### [Cracking REST APIs](https://www.irongeek.com/i.php?page=videos/converge2015/track109-cracking-and-fixing-rest-services-bill-sempf)
 
 REST, or Representational State Transfer, just refers to the protocol with which the whole Web works. No big. We are used to using REST with a browser, but there is more to it - we can write programs with REST. The problem is that writing properties and functions using the web's transfer protocol open them up to all of the security weaknesses of the web, and we know there are a few of those. Finding those bugs is just half of the battle - fixing them is a whole other story. You'll need the details, and you'll get them here.
 
-### [# How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+### [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 
 Crowdsource hackers Hakluke and Farah Hawa have joined forces on this guest blog on how hackers and defenders can (safely) hack APIs to help make the Internet safer.
