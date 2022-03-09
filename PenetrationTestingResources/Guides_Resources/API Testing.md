@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "API Testing"
-date:   2021-06-01 09:21:01 -0400
+date:   2022-03-09 09:21:01 -0400
 categories: API REST
 ---
 
@@ -12,6 +12,16 @@ categories: API REST
 ### [vAPI](https://github.com/roottusk/vapi)
 
 vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.
+
+### [crAPI](https://github.com/OWASP/crAPI)
+
+**c**ompletely **r**idiculous **API** (crAPI) will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.
+
+crAPI is modern, built on top of a microservices architecture. When time has come to buy your first car, sign up for an account and start your journey. To know more about crAPI, please check [crAPI's overview](https://github.com/OWASP/crAPI/blob/develop/docs/overview.md).
+
+### [Kontra OWASP Top 10 for API](https://application.security/free/owasp-top-10-API)
+
+KONTRA's OWASP Top 10 for API is a series of free interactive application security training modules that teach developers how to identify and mitigate security vulnerabilities in their web API endpoints.
 
 ### [REST Assured: Penetration Testing REST APIs Using Burp Suite: Part 1 – Introduction & Configuration](https://www.mindpointgroup.com/blog/cyber-security/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-1-introduction-configuration/)
 
